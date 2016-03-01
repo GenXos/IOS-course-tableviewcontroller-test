@@ -1,2 +1,2 @@
-# IOS-course-tableviewcontroller-test
+# tableviewcontroller-test
 First kick at TableViews
